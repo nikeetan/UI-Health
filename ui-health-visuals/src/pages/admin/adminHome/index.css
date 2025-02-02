@@ -1,0 +1,14 @@
+.nurse-admin-page {
+    padding: 20px;
+}
+
+.action-button {
+    width: 350px;
+}
+
+.nurse-admin {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: center;
+}

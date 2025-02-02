@@ -1,0 +1,7 @@
+flask 
+flask-cors
+flask_migrate 
+flask_sqlalchemy 
+flask_bcrypt 
+SQLAlchemy==1.4.27
+mysql-connector-python

@@ -1,0 +1,14 @@
+.patient-page {
+    padding: 20px;
+}
+
+.action-button {
+    width: 350px;
+}
+
+.patient {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: center;
+}
